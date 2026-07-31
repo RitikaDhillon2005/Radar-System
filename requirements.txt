@@ -1,3 +1,7 @@
 streamlit 
 numpy 
 matplotlib
+radar_simulator 
+signal_processor 
+feature_extractor 
+classifier
